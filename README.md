@@ -7,4 +7,4 @@ my favorite command ive learned so far: `git status`
 
 its so cold in here
 
-another conflicting change in master...
+another conflicting change in master.
